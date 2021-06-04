@@ -9,4 +9,5 @@ A lot of code is copied from Nathan Rooy. [repo](https://github.com/nathanrooy/e
 3. Added predator oganisms. Red predators try to eat the green "herbavores" which try to eat the small blue food. (If you're R/G colorblind, the predators are bigger.)
 4. The world is visualized using opencv which is a lot faster.
 
+#### The world
 ![image](screen_shots/image.JPG)
